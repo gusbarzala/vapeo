@@ -13,7 +13,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="■ PREVENCIÓN VAPEO Y HUMO"
+            android:text="■ PREVENCIÓN VAPEO"
             android:textColor="#E74C3C"
             android:textSize="22sp"
             android:textStyle="bold" />
@@ -36,7 +36,7 @@
             android:layout_marginBottom="16dp"
             android:background="#3B1818"
             android:padding="12dp"
-            android:text="■ TOCÁ [JUGAR] PARA INICIAR EL TEST DE PREVENCIÓN"
+            android:text="■ TOCÁ [JUGAR] PARA INICIAR"
             android:textColor="#F5F5F0"
             android:textSize="15sp"
             android:textStyle="bold" />
@@ -50,15 +50,6 @@
             android:text="▶ JUGAR"
             android:textColor="#121016"
             android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <TextView
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="10dp"
-            android:text="■ SELECCIONÁ UNA DE LAS 4 FORMAS:"
-            android:textColor="#F5F5F0"
-            android:textSize="16sp"
             android:textStyle="bold" />
 
         <Button
@@ -110,7 +101,7 @@
             android:layout_width="match_parent"
             android:layout_height="64dp"
             android:backgroundTint="#F5F5F0"
-            android:text="■ VOLVER AL MENÚ"
+            android:text="■ VOLVER"
             android:textColor="#121016"
             android:textSize="16sp"
             android:textStyle="bold" />
